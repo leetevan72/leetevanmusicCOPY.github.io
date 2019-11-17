@@ -1,17 +1,20 @@
 ## Portfolio
 
 
+
 ### Titanic Survivor Dashboard 
 
-[Link to Tableau Public](https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1)
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/screengrabimg.PNG?raw=true"/>
+<a href="https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1">
+<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/screengrabimg.PNG?raw=true" height = "120" width = "200"/>
+ </a>
 
 ---
 
 ### Sales Data Dashboard
 
-[Link to Tableau Public](https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1)
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true"/>
+<a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1">
+<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "174" width = "300"/>
+</a>
 
 ---
 [Project 3 Title](http://example.com/)
