@@ -1,10 +1,9 @@
 ## Portfolio
 
----
 
 ### Titanic Survivor Dashboard 
 
-[Titanic Survivor Dashboard](https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1)
+[Link to Tableau Public](https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1)
 <img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/screengrabimg.PNG?raw=true"/>
 
 ---
