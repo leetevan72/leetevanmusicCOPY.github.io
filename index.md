@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Titanic Survivor Dashboard 
 
-[Titanic Survivor Data](https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1)
+[Titanic Survivor Dashboard](https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1)
 <img src="https://cdn.kastatic.org/ka-perseus-graphie/6fc87b09f1fd082b8939b6425bef6a1d5397e532.svg"/>
 
 ---
