@@ -7,7 +7,10 @@
 <img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/screengrabimg.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Sales Data Dashboard
+
+[Link to Tableau Public](https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
