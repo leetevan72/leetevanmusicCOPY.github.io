@@ -13,7 +13,7 @@
 ### Sales Data Dashboard
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1">
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "174" width = "300"/>
+<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "116" width = "200"/>
 </a>
 
 ---
