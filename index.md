@@ -1,7 +1,7 @@
 ## Portfolio
 
-<div class="col-wrapper">
-    <div class="col col-670">
+<div class="row">
+  <div class="column">
      
 ### Titanic Survivor Dashboard 
 
@@ -19,11 +19,10 @@ target="_blank">
 <img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "116" width = "200"/>
 </a>
 </div>
+  
+  
+<div class="column">
     
-    
-<div class="col col-250">
- 
- 
 ### Sales Data Dashboard
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1"
@@ -38,7 +37,6 @@ target="_blank">
 target="_blank">
 <img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "116" width = "200"/>
 </a>
-
 
 </div>
 </div>
