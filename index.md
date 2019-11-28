@@ -2,7 +2,8 @@
 
 <div class="row">
   <div class="column">
-     ### Titanic Survivor Dashboard 
+    
+### Titanic Survivor Dashboard 
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1"
 target="_blank">
@@ -28,7 +29,7 @@ target="_blank">
 <div class="row">
   <div class="column">
      
-     ### Sales Data Dashboard
+ ### Sales Data Dashboard
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1"
 target="_blank">
@@ -68,5 +69,4 @@ target="_blank">
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
