@@ -19,8 +19,8 @@ target="_blank">
 </a>
 
 ---  
-     
- ### Sales Data Dashboard
+
+### Sales Data Dashboard
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1"
 target="_blank">
