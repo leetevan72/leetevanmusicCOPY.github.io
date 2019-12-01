@@ -3,7 +3,7 @@
 
     
 ### Titanic Survivor Dashboard
-A tableau dashboard that explores the rate of survival of Titanic passengers.
+A tableau dashboard that displays the survival rates of Titanic passengers.
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1"
 target="_blank">
@@ -23,7 +23,7 @@ target="_blank">
 ---  
 
 ### Citi Bikes Analysis in SAS
-A school project in which I imported, cleaned, merged, and analyzed Citi Bike Data. The document includes SAS script and output as well as discussions of methods and results. Link opens PDF.
+A school project in which I imported, cleaned, merged, and analyzed Citi Bike Data. The document includes SAS script and output as well as a discussion of methods and results. Link opens PDF.
 
 <a href="pdf/Module7FinalProject-converted.pdf"
 target="_blank">
