@@ -23,7 +23,7 @@ target="_blank">
 ---  
 
 ### Citi Bikes Analysis in SAS
-A school project in which I imported, cleaned, merged, and analyzed Citi Bike Data. The document includes SAS script and output as well as a discussion of methods and results. Link opens PDF.
+A school project in which I imported, cleaned, merged, and analyzed Citi Bike Data. The document includes SAS script and output as well as a discussion of methods and results. The image link opens a PDF.
 
 <a href="pdf/Module7FinalProject-converted.pdf"
 target="_blank">
