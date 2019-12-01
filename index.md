@@ -25,7 +25,7 @@ Link opens PDF
 
 <a href="pdf/Module7FinalProject-converted.pdf"
 target="_blank">
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/sassnap.png?raw=true" height = "116" width = "200"/>
+<img src="images/sasSnap.PNG" height = "116" width = "200"/>
 </a>
 
 ---
