@@ -23,7 +23,7 @@ target="_blank">
 ### Citi Bikes Analysis in SAS
 Link opens PDF
 
-<a href="https://docs.google.com/viewer?url=pdf/Module7FinalProject-converted.pdf"
+<a href="pdf/Module7FinalProject-converted.pdf"
 target="_blank">
 <img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "116" width = "200"/>
 </a>
