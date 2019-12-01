@@ -13,7 +13,7 @@ target="_blank">
 ---
 
 ### Sales Data Dashboard
-A simple dash board set up to explore sales data over time.
+A simple tableau dashboard set up to explore sales data over time.
 
 <a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1"
 target="_blank">
