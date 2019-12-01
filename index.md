@@ -32,13 +32,10 @@ target="_blank">
 
 ---
 
-### Social Media
+### Get in Touch
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- email: leetevan72@gmail.com
+- twitter: <a href="https://twitter.com/leetevan72">@leetevan72</a> 
 
 ---
 
