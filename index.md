@@ -35,7 +35,6 @@ target="_blank">
 ### Get in Touch
 
 - Email: leetevan72@gmail.com
-- Twitter: <a href="https://twitter.com/leetevan72">@leetevan72</a> 
 
 ---
 
