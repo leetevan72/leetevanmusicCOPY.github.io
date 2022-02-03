@@ -2,39 +2,35 @@
 
 
     
-### Titanic Survivor Dashboard
-A tableau dashboard that displays the survival rates of Titanic passengers.
-
-<a href="https://public.tableau.com/profile/leetevan72#!/vizhome/titanicsurvival_15739544718620/Dashboard1"
-target="_blank">
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/screengrabimg.PNG?raw=true" height = "120" width = "200"/>
+### Moonspeaker (Indie Rock Band)
+Indie Rock Band
+<a href="https://moonspeaker.bandcamp.com/">
+    
+Gravity - Full length album
  </a>
  
 ---
 
-### Sales Data Dashboard
-A simple tableau dashboard set up to explore sales data over time.
-
-<a href="https://public.tableau.com/profile/leetevan72#!/vizhome/SalesDashboard_15740082320880/Dashboard1"
-target="_blank">
-<img src="https://github.com/leetevan72/leetevan72.github.io/blob/master/images/salesdataimg.png?raw=true" height = "116" width = "200"/>
+### Transcendence
+Alternative Metal Band
+<a href="https://www.youtube.com/playlist?list=PLOMM3pJr3YLSBlgJiHaDoJvcQiEJ_8a8D">
+    
+Pangaea EP
 </a>
 
 ---  
 
-### Citi Bikes Analysis in SAS
-A school project in which I imported, cleaned, merged, and analyzed Citi Bike Data. The document includes SAS script and output as well as a discussion of methods and results. The image link opens a PDF.
+### Solo Bass Work
+The Rain Song - Solo bass cover/arrangement
 
-<a href="pdf/Module7FinalProject-converted.pdf"
-target="_blank">
-<img src="images/sasSnap.PNG" height = "116" width = "200"/>
-</a>
-
+[![The Rain Song - Solo bass cover/arrangement](https://img.youtube.com/vi/ki1B35ntVHs/0.jpg)](https://youtu.be/ki1B35ntVHs "The Rain Song - Solo bass cover/arrangement")
 ---
 
 ### Get in Touch
 
-- Email: leetevan72@gmail.com
+- Email: evanscottleet@gmail.com
+- <a href="https://www.facebook.com/evan.leet.3">Facebook</a>
+- <a href="https://twitter.com/leetevan72">Twitter</a>
 
 ---
 
